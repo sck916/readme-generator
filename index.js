@@ -1,3 +1,8 @@
+var inquirer = require('inquirer');
+var fs = require('fs')
+
+
+
 // array of questions for user
 const questions = [
 

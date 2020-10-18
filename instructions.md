@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
@@ -110,6 +109,3 @@ You are required to submit the following for review:
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-=======
-# readme-generator
->>>>>>> 98e66f1f617fd74fa47a25745786059fc94bd864
